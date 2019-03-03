@@ -1,4 +1,4 @@
-The first task code is contained in a .py file. Running it will play the video and show the path and a moving particle.
+The first task code is contained in a .py file. Running it will play the video and show the path and a moving particle.Suggested values for constants in 6, 0.3, 100
 
 The second task code is contained in a .ipynb file. This file has many outputs but most important is 'nstereo2.png'
 
